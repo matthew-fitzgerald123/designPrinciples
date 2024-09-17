@@ -1,15 +1,7 @@
-# Task Manager
+# Task Manager Project
+design principles project
 
-**Overview**
-
-The Task Manager project is a simple console-based application demonstrating the use of Singleton and Factory design patterns in Python. This project showcases object-oriented programming, software design principles, and design patterns, making it a great addition to any developer’s portfolio.
-
-**Project Structure**
-
-The Task Manager application includes the following features:
-
-	1.	Singleton Pattern: Ensures there is only one instance of the TaskManager throughout the application, managing all tasks from a single point.
-	2.	Factory Pattern: Dynamically creates different types of tasks using a Factory class, demonstrating polymorphism and clean code practices.
+The Task Manager project is a simple console-based application demonstrating the use of Singleton and Factory design patterns in Python.
 
 **Process**
 
@@ -22,10 +14,5 @@ The Task Manager application includes the following features:
 	4.	Tested and Verified the Functionality: Implemented a script to test the application by creating tasks, adding them to the manager, marking them as complete, 
  		and listing their statuses. This script ensures that the application behaves as expected.
 
-The Task Manager project successfully demonstrates the practical application of two fundamental design patterns, resulting in a robust, maintainable, and extensible application. It provides a valuable learning experience in object-oriented design, software architecture, and code modularity.
-
-This project is a fully functional task manager application with core functionalities and can be further expanded to include additional features such as priority management, deadlines, and user interfaces.
-
-**Libraries Used**
-
+**Libraries Used:**
 Time, ABC
